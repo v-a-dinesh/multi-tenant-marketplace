@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.pyo
+*.pyd
+.Python
+
+# Django
+*.sqlite3
+media/
+staticfiles/
+*.log
+local_settings.py
+
+# Environment
+.env
+.env.local
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
