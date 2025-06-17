@@ -377,7 +377,7 @@ products = Product.objects.all()
 
 ## Project Structure
 
-```
+
 ```
 multi_tenant_marketplace/
 ├── apps/
